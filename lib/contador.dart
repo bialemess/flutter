@@ -62,7 +62,6 @@ class _ContadorState extends State<Contador> {
         Text("valor do contador: $numero", 
           style: TextStyle(
             fontSize: 20,
-          
             color: Colors.black,
           ),
         )
